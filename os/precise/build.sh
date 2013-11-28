@@ -1,3 +1,3 @@
 #!/bin/bash
 
-docker build -t="marcel/precise-20131128"
+sudo docker build -t="marcel/precise-20131128"
